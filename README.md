@@ -29,9 +29,6 @@ the alien invasion is successful and the game ends. A special "mystery ship" wil
 screen and award bonus points if destroyed. The ship is partially protected by several stationary defense bunkers that are
 gradually destroyed by projectiles from the aliens and player.
 
-<img src="http://www.leejamesrobinson.com/uploads/2/4/9/9/24992148/6520712.png" width="360" height="300" />
-<img src="http://www.leejamesrobinson.com/uploads/2/4/9/9/24992148/6435166.png?1414553641" width="360" height="300"/>
-
 How To Play
 ----
  - If you don't have [Python](https://www.python.org/downloads/) or [Pygame](http://www.pygame.org/download.shtml) installed, you can simply double click the .exe file to play the game.

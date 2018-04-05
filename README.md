@@ -1,3 +1,11 @@
+Shmoo Invaders
+==========
+Original Readme below.  This was modified to run on a pi2b sitting in a cupcade cabinet.
+https://www.adafruit.com/product/1783
+
+
+
+
 Space Invaders
 ===========
 
